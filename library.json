@@ -1,0 +1,24 @@
+{
+  "name": "Matrix",
+  "keywords": "matrix, vector, algebra, math, maths",
+  "description": "A free library for matrix calculation.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/jwrw/Matrix.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Earsuit",
+      "email": "renyudicn@outlook.com",
+    },
+    {
+      "name": "Jim Watson",
+      "email": "j-watson@ntlworld.com"
+    }
+  ],
+  "version": "1.2",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
